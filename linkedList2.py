@@ -31,3 +31,4 @@ myLinkedList.append(2)
 myLinkedList.append(3)
 
 myLinkedList.printList()
+
